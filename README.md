@@ -24,3 +24,7 @@ Progressive learning to understand the code and wiring in this project, not just
 **Note:** After college starts, pace slows — foundation completes in 10 days, deeper practice continues weekly/weekends.
 
 **On AI usage:** I use Claude as a learning guide for this project — mostly to break down stuff I don't get yet, like I2C or bitwise operations, and to help me structure this roadmap. But every line of code here I've actually gone through and understood, none of it's copy-pasted. If you check the commit history, you'll see that — it's built step by step, not dumped in one go.
+
+## Live Sensor Output
+![Wiring](docs/wiring-screenshot.png)
+![Output](docs/output-screenshot.png)
