@@ -6,6 +6,7 @@ ECE project: accelerometer (ADXL335/MPU6050) + Arduino/ESP32 + basic ML for dete
 Day 1 — setup, planning.
 Day 2 — Wokwi setup complete, MPU6050 wired and reading live data.
 Day 3 — Number systems learned (hex/binary conversion). Started logging sensor data — normal-state readings collected.
+Day 4 — Bitwise operators learned. Fault-state sensor data simulated and collected (data/fault-readings.csv).
 ## Hardware Learning Roadmap (10-day plan)
 
 Progressive learning to understand the code and wiring in this project, not just copy-paste it.
