@@ -14,7 +14,7 @@ Progressive learning to understand the code and wiring in this project, not just
 |---|---|---|
 | 1-2 | C basics — loops, functions | ✅ Done |
 | 3 | Number systems (decimal/binary/hex) | ✅ Done |
-| 4 | Bitwise operators (<<, >>, \|, &) | ⬜ Upcoming |
+| 4 | Bitwise operators (<<, >>, \|, &) | ✅ Done |
 | 5 | Pointers basics | ⬜ Upcoming |
 | 6 | I2C protocol (SCL/SDA, master-slave) | ⬜ Upcoming |
 | 7 | Arduino digital I/O | ⬜ Upcoming |

@@ -16,3 +16,9 @@
 - Project: modified code for CSV output, collected 20 normal-state sensor readings, saved to data/normal-readings.csv
 - Understood well: number system division method, definite integral limits
 - Tomorrow: bitwise operators (roadmap Day 4), continue project — plan for fault-state data
+
+## Day 4 — [18/08/26]
+- Coding C (roadmap): bitwise operators (<<, >>, |, &) — explains sensor byte-combining code
+- Project: fixed empty CSV bug from Day 3, simulated and collected fault-state sensor data
+- Understood well: bitwise shift logic
+- Tomorrow: pointers basics (roadmap Day 5), continue project — compare normal vs fault data
