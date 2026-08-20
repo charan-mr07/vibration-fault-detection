@@ -22,3 +22,7 @@
 - Project: fixed empty CSV bug from Day 3, simulated and collected fault-state sensor data
 - Understood well: bitwise shift logic
 - Tomorrow: pointers basics (roadmap Day 5), continue project — compare normal vs fault data
+
+## Day 5 – [19/08/26]
+- Project: started threshold-based fault classifier (normal vs fault comparison), paused mid-build to strengthen fundamentals (file handling, loops, comparison logic) first — building from scratch, not copy-pasted
+- Tomorrow: revisit file handling + loops fundamentals, then resume classifier build
