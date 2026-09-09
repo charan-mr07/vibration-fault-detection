@@ -32,6 +32,27 @@ Progressive learning to understand the code and wiring in this project, not just
 
 Normal-state and fault-state datasets are collected in `data/`. Currently building a threshold-based classifier (normal vs fault) — paused mid-build to strengthen fundamentals (file handling, loops, comparison logic) so the code is written from scratch with genuine understanding, not assembled from pasted pieces. Will resume once fundamentals are solid.
 
+## Fundamentals Rebuild (Sep 2026)
+
+Paused the classifier build to strengthen fundamentals first — mini-projects added in a `fundamentals/` folder, one commit per concept, before resuming the main project.
+
+| # | Mini-project | Status |
+|---|---|---|
+| 1 | LED blink | ✅ Done |
+| 2 | LED blink pattern | 🟪 Upcoming |
+| 3 | Push button + LED | 🟪 Upcoming |
+| 4 | Traffic light simulation | 🟪 Upcoming |
+| 5 | Potentiometer + LED (PWM) | 🟪 Upcoming |
+| 6 | LDR + threshold logic | 🟪 Upcoming |
+| 7 | Serial monitor data logging | 🟪 Upcoming |
+| 8 | I2C basics | 🟪 Upcoming |
+| 9 | MPU6050 revisit | 🟪 Upcoming |
+| 10 | Resume fault classifier | 🟪 Upcoming |
+
+
 ## Live Sensor Output
 ![Wiring](docs/wiring-screenshot.png)
 ![Output](docs/output-screenshot.png)
+
+**Mini-project 1 output:**
+![LED Blink](docs/led-blink-output.png)

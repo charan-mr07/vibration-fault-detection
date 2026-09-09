@@ -26,3 +26,9 @@
 ## Day 5 – [19/08/26]
 - Project: started threshold-based fault classifier (normal vs fault comparison), paused mid-build to strengthen fundamentals (file handling, loops, comparison logic) first — building from scratch, not copy-pasted
 - Tomorrow: revisit file handling + loops fundamentals, then resume classifier build
+
+## Day 6 – [09/09/26]
+- Project: restructured repo — added `fundamentals/` folder for mini-projects, paused classifier till fundamentals are solid
+- Coding: mini-project 1 — LED blink (pinMode, digitalWrite, delay), built in Wokwi, committed
+- Understood well: setup()/loop() structure vs Python def/indentation, digitalWrite HIGH/LOW logic, delay() timing
+- Tomorrow: mini-project 2 — LED blink pattern (loops applied to hardware timing)
